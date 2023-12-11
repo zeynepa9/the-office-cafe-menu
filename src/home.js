@@ -7,7 +7,7 @@ function loadHome() {
   const content = document.getElementById('content');
 
   const heading = document.createElement('h1');
-  heading.textContent = 'Welcome The Office Coffee!';
+  heading.textContent = 'Welcome The Office Cafe!';
   heading.classList.add('home-heading'); // add class for css
 
   const image = new Image();
