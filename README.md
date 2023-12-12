@@ -48,7 +48,7 @@ Throughout the development of this project, key web development concepts were re
 
 ## Deployment
 
-This project is deployed at [https://zeynepa9.github.io/the-office-cafe-menu/](https://zeynepa9.github.io/the-office-coffee-menu/). Visit the live site to see the project in action.
+This project is deployed at [https://zeynepa9.github.io/the-office-cafe-menu/](https://zeynepa9.github.io/the-office-cafe-menu/). Visit the live site to see the project in action.
 
 ## Credits and Acknowledgments
 
