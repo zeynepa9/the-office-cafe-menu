@@ -5,7 +5,7 @@ import loadContact from './contact';
 import './style.css';
 
 
-console.log('The Office Coffee Menu loaded');
+console.log('The Office Cafe Menu loaded');
 
 
 
